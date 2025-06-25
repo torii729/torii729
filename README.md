@@ -2,17 +2,15 @@
 
 ### 안녕
 
-<!--
-**torii729/torii729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Features
 
-Here are some ideas to get you started:
+### ⚡ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 
+
+### 💻 
+
+## 🤔 Wondering how you can use it?
+
+## Our Social Links
+[![X](https://img.shields.io/badge/X-black.svg?style=normal&logo=X&logoColor=white)](https://www.seowon.ac.kr/computer/index.do)
