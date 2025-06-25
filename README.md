@@ -40,3 +40,5 @@
 
 ### ⏰ 활동 시간대
 ![GitHub 활동 시간대](https://github-readme-activity-graph.vercel.app/graph?username=torii729&theme=github-compact&area=true)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
