@@ -7,6 +7,8 @@
 ---
 
 ### 💻 사용 언어
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torii729)](https://github.com/torii729/github-readme-stats)
+
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
