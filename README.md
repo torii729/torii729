@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=20&section=header&text=프로필&fontSize=10)
+
 # 👋 안녕하세요!
 
 서원대학교 컴퓨터공학과에서 공부 중인 학생입니다.
