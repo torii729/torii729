@@ -33,3 +33,14 @@
 ---
 
 ![torii729 GitHub Stats](https://github-readme-stats.vercel.app/api?username=torii729&show_icons=true&theme=tokyonight)
+
+---
+
+### 📊 GitHub 활동 통계
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=torii729&show_icons=true&theme=tokyonight)
+
+### 🔥 커밋 연속 기록
+[![GitHub Streak](https://streak-stats.demolab.com?user=torii729&theme=tokyonight)](https://git.io/streak-stats)
+
+### ⏰ 활동 시간대
+![GitHub 활동 시간대](https://github-readme-activity-graph.vercel.app/graph?username=torii729&theme=github-compact&area=true)
